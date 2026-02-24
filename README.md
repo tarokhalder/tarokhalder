@@ -51,8 +51,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tarokhalder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=7&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarokhalder&radius=16&theme=react&area=true&order=4" height="170" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=tarokhalder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=7&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarokhalder&radius=16&theme=react&area=true&order=4" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
