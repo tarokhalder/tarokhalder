@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Competitive Programmer | Aspiring Software Engineer<br>⚙️ Currently building projects in Java, Python.<br>📱 Learning Machine Learning , Generative Ai.<br>🧩 I love solving problems and learning new technologies every day.</p>
+<p align="left">🧑‍💻 Competitive Programmer | Aspiring Software Engineer<br>⚙️ Currently building projects in Java, Python.<br>📱 Currently Learning Machine Learning , Generative Ai.<br>🧩 I love solving problems and learning new technologies every day.</p>
 
 ###
 
