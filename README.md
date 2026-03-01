@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goal: Become a strong competitive programmer & software engineer.<br>⚙️ Ask me about: C , Java, Python, Kotlin ,C++, Data structure and Algorithms, and Problem Solving.<br>🖥️ Passion: Problem Solving , Learning Mathematics , Data structure and Algorithms.</p>
+<p align="left">🎯 Goal: Become a Great competitive programmer & software engineer.<br>⚙️ Ask me about: C , Java, Python, Kotlin ,C++, Data structure and Algorithms, and Problem Solving.<br>🖥️ Passion: Problem Solving , Learning Mathematics , Data structure and Algorithms.</p>
 
 ###
 
