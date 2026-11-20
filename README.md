@@ -15,25 +15,44 @@ I'm passionate about **problem-solving, algorithms, software engineering, and ar
 
 ## 🚀 Technologies & Tools
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,jupyter" />
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-1D4ED8?style=for-the-badge" />
 </p>
 
-### Development Tools
+### 🛠️ Development Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -99,5 +118,5 @@ I'm passionate about **problem-solving, algorithms, software engineering, and ar
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarokhalder&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=tarokhalder&label=Profile%20Views&color=2563EB&style=flat" />
 </p>
